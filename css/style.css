@@ -1,0 +1,70 @@
+.nav{display: flex; 
+justify-content: space-around ;
+align-items: center;
+min-height: 4vh ;
+font-family: 'Roboto', sans-serif;
+background-color: rgb(5, 41, 41);}
+
+
+.logo{color: darkgrey;
+letter-spacing: 5px;
+font-size:22px;}
+
+.nav-links{display:flex;
+    justify-content: space-around;
+width:30% ; }
+
+.nav-links{ color: darkgray;}
+
+
+.p1{ color: brown;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif  ;
+margin:2cm; }
+
+.h1{font-family: Verdana, Geneva, Tahoma, sans-serif;
+color: coral;
+letter-spacing: 5px ;
+height: 20px;
+text-align: center; }
+.p2{font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif  ;
+    color: coral;
+margin:2cm; 
+
+ }
+.ph{font-family: fantasy;
+height:9px; }
+.h1{color: gray;
+font-family: unset; }
+.h3{font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif  ;
+    height:60px;  }
+
+ .table{ height:5cm;
+width:30cm ;
+margin:2cm;
+font-family: Georgia, 'Times New Roman', Times, serif; }
+
+.image1{ height: 50pc;
+width:30cm ;}
+.image2{ height: 50pc;
+    width:30cm ;}
+
+
+    .p3{ color: brown;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif  ;
+        margin:2cm; }
+
+        .p4{ color: brown;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif  ;
+            margin:2cm; }
+
+
+        .image3{height: 50pc;
+            width:30cm ;}
+            .image4{height: 50pc;
+                width:30cm ;}
+
+
+   .box1{border:2px outset rgba(199, 231, 15, 0.918);;}
+   .box2{border:2px outset rgba(199, 231, 15, 0.918);;}
+  .box3{border:2px outset rgba(199, 231, 15, 0.918);;}
+  .box4{border:2px outset rgba(199, 231, 15, 0.918);;}
